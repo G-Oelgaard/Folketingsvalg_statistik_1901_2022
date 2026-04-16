@@ -54,12 +54,13 @@ Du må frit:
 - Så længe du krediterer danmarkshistorien.dk / Aarhus Universitet som kilde.
 
 ***
+
 # Statistics on Danish Parliamentary Elections, 1901–2022
 Danmarkshistorien.dk / Aarhus University
  
 This repository contains a dataset with results from all Danish parliamentary elections in the period 1901–2022, including documentation about the dataset.
 
-Note that the documentation and notes in the dataset are in Danish.
+Note that the documentation and datasets are in Danish.
  
 ## Contents
 - *Folketingsvalg_statistik.csv* // The main dataset with election results per party and election in .csv format.
