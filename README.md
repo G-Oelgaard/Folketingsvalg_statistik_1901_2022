@@ -8,7 +8,7 @@ Denne repository indeholder et datasæt med resultater fra alle danske folketing
 - *Folketingsvalg_statistik_1901-2022.xlsx* // Hoveddatasættet med valgresultater pr. parti og valg i .xlsx format.
 - *Dokumentation.pdf* // Forklaring af datastruktur, variable, partier, forkortelser, navneskift m.m.
 
-Dokumentationen kan også findes på Lex.dk[https://filer.lex.dk/danmarkshistorien/Datasaet/Dokumentation/Folketingsvalg_statistisk_1901-2022.pdf].
+Dokumentationen kan også findes på [Lex.dk](https://filer.lex.dk/danmarkshistorien/Datasaet/Dokumentation/Folketingsvalg_statistisk_1901-2022.pdf).
 
 ## Databeskrivelse
 Datasættet indeholder:
@@ -22,8 +22,8 @@ Datasættet indeholder:
 Variablerne er dokumenteret yderligere i afsnit 1.2 af *Dokumentation.pdf* eller under *Struktur* i denne Readme.
 
 Resultater fra de enkelte valgkredse eller fra landstinget er ikke inkluderet, men kan findes i Danmarks Statistisks opgørelser efter hvert folketingsvalg:
-- Hovedside om folketingsvalgene: [https://www.dst.dk/da/Statistik/emner/borgere/demokrati/folketingsvalg]
-- Historiske udgivelser om folketingsvalgene før 2007: [https://www.dst.dk/da/Statistik/udgivelser/VisPub?cid=20332]
+- Hovedside om folketingsvalgene: https://www.dst.dk/da/Statistik/emner/borgere/demokrati/folketingsvalg
+- Historiske udgivelser om folketingsvalgene før 2007: https://www.dst.dk/da/Statistik/udgivelser/VisPub?cid=20332
 
 ## Struktur
 | Kolonne | Indhold |
@@ -46,7 +46,7 @@ Resultater fra de enkelte valgkredse eller fra landstinget er ikke inkluderet, m
 Data og dokumentation blev oprindeligt udarbejdet af redaktionen på  danmarkshistorien.dk ved Aarhus Universitet.
 Kildedata stammer fra Danmarks Statistik, suppleret med historiske oplysninger fra Folketingets Oplysning og universitetsforskning.
 
-Selvom danmarkshistorien.dk i dag ikke længere eksisterer i samme form, stammer dette materiale direkte fra det oprindelige projekt. Artiklerne udarbejdet i forbindelse med folketingsvalgdatasættet kan i dag findes på Lex.dk[https://lex.dk/].
+Selvom danmarkshistorien.dk i dag ikke længere eksisterer i samme form, stammer dette materiale direkte fra det oprindelige projekt. Artiklerne udarbejdet i forbindelse med folketingsvalgdatasættet kan i dag findes på [Lex.dk](https://lex.dk/).
 
 ## Licens
 Datasættet er udgivet under Open Data Commons Open Database License (ODbL):
@@ -70,7 +70,7 @@ Note that the documentation and datasets are in Danish.
 - *Folketingsvalg_statistik_1901-2022.xlsx* // The main dataset with election results per party and election in .xlsx format.
 - *Dokumentation.pdf* // Explanation of data structure, variables, parties, abbreviations, name changes, etc.
 
-The documentation can also be found on Lex.dk[https://filer.lex.dk/danmarkshistorien/Datasaet/Dokumentation/Folketingsvalg_statistisk_1901-2022.pdf].
+The documentation can also be found on [Lex.dk](https://filer.lex.dk/danmarkshistorien/Datasaet/Dokumentation/Folketingsvalg_statistisk_1901-2022.pdf).
   
 ## Data Description
 The dataset contains:
@@ -83,8 +83,8 @@ The dataset contains:
 The variables are further documented in section 1.2 of *Dokumentation.pdf* or under *Structure* in this Readme.
  
 Results from individual constituencies or from the upper chamber (Landsting) are not included, but can be found in Statistics Denmark's publications after each parliamentary election:
-- Main page on parliamentary elections: [https://www.dst.dk/da/Statistik/emner/borgere/demokrati/folketingsvalg]
-- Historical publications on parliamentary elections prior to 2007: [https://www.dst.dk/da/Statistik/udgivelser/VisPub?cid=20332]
+- Main page on parliamentary elections: https://www.dst.dk/da/Statistik/emner/borgere/demokrati/folketingsvalg
+- Historical publications on parliamentary elections prior to 2007: https://www.dst.dk/da/Statistik/udgivelser/VisPub?cid=20332
   
 ## Structure
 | Column | Content |
@@ -106,7 +106,7 @@ Results from individual constituencies or from the upper chamber (Landsting) are
 ## Origin and Attribution
 Data and documentation were originally compiled by the editorial team at danmarkshistorien.dk at Aarhus University. Source data comes from Statistics Denmark, supplemented with historical information from the Danish Parliament's Information Service and university research.
  
-Although danmarkshistorien.dk no longer exists in the same form today, this material originates directly from the original project. Articles prepared in connection with the parliamentary election dataset can now be found at Lex.dk [https://lex.dk/].
+Although danmarkshistorien.dk no longer exists in the same form today, this material originates directly from the original project. Articles prepared in connection with the parliamentary election dataset can now be found at [Lex.dk](https://lex.dk/).
  
 ## Licence
 The dataset is published under the Open Data Commons Open Database License (ODbL):
