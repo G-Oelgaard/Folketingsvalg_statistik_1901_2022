@@ -1,11 +1,14 @@
 # Statistik om de danske folketingsvalg, 1901–2022
 Danmarkshistorien.dk / Aarhus Universitet
+
 Denne repository indeholder et datasæt med resultater fra alle danske folketingsvalg i perioden 1901–2022, herunder dokumentation om datasættet.
 
 ## Indhold
 - *Folketingsvalg_statistik.csv* // Hoveddatasættet med valgresultater pr. parti og valg i .csv format.
 - *Folketingsvalg_statistik_1901-2022.xlsx* // Hoveddatasættet med valgresultater pr. parti og valg i .xlsx format.
 - *Dokumentation.pdf* // Forklaring af datastruktur, variable, partier, forkortelser, navneskift m.m.
+
+Dokumentationen kan også findes på Lex.dk[https://filer.lex.dk/danmarkshistorien/Datasaet/Dokumentation/Folketingsvalg_statistisk_1901-2022.pdf].
 
 ## Databeskrivelse
 Datasættet indeholder:
@@ -66,6 +69,8 @@ Note that the documentation and datasets are in Danish.
 - *Folketingsvalg_statistik.csv* // The main dataset with election results per party and election in .csv format.
 - *Folketingsvalg_statistik_1901-2022.xlsx* // The main dataset with election results per party and election in .xlsx format.
 - *Dokumentation.pdf* // Explanation of data structure, variables, parties, abbreviations, name changes, etc.
+
+The documentation can also be found on Lex.dk[https://filer.lex.dk/danmarkshistorien/Datasaet/Dokumentation/Folketingsvalg_statistisk_1901-2022.pdf].
   
 ## Data Description
 The dataset contains:
